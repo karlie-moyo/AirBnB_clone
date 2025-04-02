@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## AUTHORS
 
-KARLIE MOYO | [Karliecrypto](karlieemoyo@gmail.com) 
+KARLIE MOYO | [Karlie Moyo](karlieemoyo@gmail.com) 
 
 NCHEDO OKONGWU | [Dchedos](nchedookongwu@yahoo.com)
